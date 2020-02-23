@@ -1,0 +1,26 @@
+﻿  Source.c
+C:\DevOps\C\StrtingC\C\C\Source.c(37,16): warning C4047: 'return': 'int **' differs in levels of indirection from 'int *'
+C:\DevOps\C\StrtingC\C\C\Source.c(64,34): warning C4047: 'function': 'int (*)[10]' differs in levels of indirection from 'int *'
+C:\DevOps\C\StrtingC\C\C\Source.c(64,34): warning C4024: 'printAnAryyOfArrys': different types for formal and actual parameter 1
+C:\DevOps\C\StrtingC\C\C\Source.c(44,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int **'
+C:\DevOps\C\StrtingC\C\C\Source.c(80,9): warning C4101: 'i': unreferenced local variable
+C:\DevOps\C\StrtingC\C\C\Source.c(116,28): warning C4047: 'function': 'int (*)[10]' differs in levels of indirection from 'int [8]'
+C:\DevOps\C\StrtingC\C\C\Source.c(116,28): warning C4024: 'printAnAryyOfArrys': different types for formal and actual parameter 1
+C:\DevOps\C\StrtingC\C\C\Source.c(118,28): warning C4047: 'function': 'int (*)[10]' differs in levels of indirection from 'int [8]'
+C:\DevOps\C\StrtingC\C\C\Source.c(118,28): warning C4024: 'printAnAryyOfArrys': different types for formal and actual parameter 1
+C:\DevOps\C\StrtingC\C\C\Source.c(120,28): warning C4047: 'function': 'int (*)[10]' differs in levels of indirection from 'int [8]'
+C:\DevOps\C\StrtingC\C\C\Source.c(120,28): warning C4024: 'printAnAryyOfArrys': different types for formal and actual parameter 1
+C:\DevOps\C\StrtingC\C\C\Source.c(230,9): warning C4013: 'gets' undefined; assuming extern returning int
+C:\DevOps\C\StrtingC\C\C\Source.c(281,41): warning C4047: '-': 'char *' differs in levels of indirection from 'char (*)[24]'
+C:\DevOps\C\StrtingC\C\C\Source.c(97): warning C4716: 'pointers_2_8q6': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(121): warning C4716: 'pointers_2_8q5': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(187): warning C4716: 'countLongNUmber': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(173): warning C4716: 'unitingArray': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(198): warning C4716: 'arrayExsam': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(215): warning C4716: 'myStrCut': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(222): warning C4716: 'pointerExsam': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(236): warning C4716: 'getTooStringToghter': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(290): warning C4716: 'q5': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(310): warning C4716: 'countBits': must return a value
+C:\DevOps\C\StrtingC\C\C\Source.c(324): warning C4716: 'q12p7': must return a value
+  C.vcxproj -> C:\DevOps\C\StrtingC\C\Debug\C.exe
