@@ -20,7 +20,7 @@ int** buildArrayofPointer(int n);
 
 /*
 int main() {
-    // pdf name of file exercise + q + number of question + () // pointers_2_8 + q + 5 + () // exemple ==> pointers_2_8q5();
+    // "_" + pdf name of file exercise + q + number of question + () // _ + pointers_2_8 + q + 5 + () // exemple ==> _pointers_2_8q5();
 }
 */
 
@@ -110,7 +110,7 @@ int srarch_larger(int* arr, int n, int k) {
     return k;
 }
 
-int pointers_2_8q5() {
+int _7_B_pointersq5() {
     ///////////////0--1-2--3--4--5--6--7
     int bank[] = { 5,65,1,34,67,72,48,23 };
     int size = sizeof(bank) / sizeof(bank[0]);
