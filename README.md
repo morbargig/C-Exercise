@@ -9,3 +9,4 @@ int main() {
     // "_" + pdf name of file exercise + q + number of question + () // _ + pointers_2_8 + q + 5 + () // exemple ==> _pointers_2_8q5();
 }
 ```
+![image](https://github.com/morbargig/C-Exercise/assets/51287453/a22858ee-81b1-45b9-8425-713dfb8b5644)
